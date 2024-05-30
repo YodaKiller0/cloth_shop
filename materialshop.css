@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.h1 {
+   color: white;
+}
+
+.tables  {
+   color: white;
+   border: 1px solid white;
+}
+
+.td, tr {
+   color: white;
+   border: 3px solid rgba(249, 219, 179, 1);
+}
+
+.th1 {
+   color: black;
+   border: 3px solid rgba(249, 219, 179, 1);
+}
